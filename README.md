@@ -5,7 +5,7 @@
 # 🚀 Executive Summary
 
 Horizon Financial Group observed that approximately **1 in 4 personal loans (25%)** issued during **2024–2025** resulted in default—more than double the organization's target default rate of **12%**.
-To identify the primary drivers of loan defaults, I analyzed borrower profiles and loan application data using **SQL, Python (Pandas), and Excel**. The analysis focused on four critical underwriting factors:
+To identify the primary drivers of loan defaults, I analyzed borrower profiles and loan application data using **SQL, and Excel**. The analysis focused on four critical underwriting factors:
 
 - Credit Score
 - Debt-to-Income (DTI) Ratio
@@ -39,9 +39,10 @@ The Risk Management team required a data-driven analysis to determine:
 
 # 🔍 Methodology
 
-### Data Preparation
-### Exploratory Data Analysis (EDA)
-### Analytical Approach
+- **SQL:** Joined borrower and loan datasets, performed data cleaning, created credit score and DTI segments, and analyzed default rates using joins, CTEs, CASE statements, aggregate functions, and window functions.
+- **Python (Pandas):** Conducted exploratory data analysis (EDA), handled missing values, validated data quality, transformed datasets, and performed correlation analysis on borrower and loan attributes.
+- **Risk Segmentation:** Segmented borrowers by **credit score**, **Debt-to-Income (DTI) ratio**, **loan purpose**, and **employment characteristics** to identify high-risk borrower profiles.
+- **Data Validation:** Verified data integrity through null checks, duplicate detection, data type validation, and consistency checks before performing analysis.
 
 ---
 
