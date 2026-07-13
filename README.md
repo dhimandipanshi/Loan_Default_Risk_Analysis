@@ -48,7 +48,9 @@ The Risk Management team required a data-driven analysis to determine:
 # 🛠️ Skills Used
 
 -**SQL:** :Joins,CTEs,Aggregate Functions,CASE Statements ,GROUP BY,Window Functions
+
 -**Excel**: Data Validation ,Data Quality Checks
+
 -**Analytics:** :Credit Risk Analysis ,Risk Segmentation ,Business Insights , Underwriting Recommendations
 
 ---
