@@ -39,10 +39,10 @@ The Risk Management team required a data-driven analysis to determine:
 
 # 🔍 Methodology
 
-- **SQL:** Joined borrower and loan datasets, performed data cleaning, created credit score and DTI segments, and analyzed default rates using joins, CTEs, CASE statements, aggregate functions, and window functions.
-- **Python (Pandas):** Conducted exploratory data analysis (EDA), handled missing values, validated data quality, transformed datasets, and performed correlation analysis on borrower and loan attributes.
-- **Risk Segmentation:** Segmented borrowers by **credit score**, **Debt-to-Income (DTI) ratio**, **loan purpose**, and **employment characteristics** to identify high-risk borrower profiles.
-- **Data Validation:** Verified data integrity through null checks, duplicate detection, data type validation, and consistency checks before performing analysis.
+- **SQL:** Imported both datasets, performed exploratory data analysis (EDA), checked for missing values, validated data types, joined borrower and loan tables, and analyzed default rates using **Joins, CTEs, CASE statements, aggregate functions, and window functions**.
+- **Risk Segmentation:** Created borrower segments based on **credit score**, **Debt-to-Income (DTI) ratio**, **loan purpose**, and **employment status** to identify high-risk borrower profiles.
+- **Business Analysis:** Compared default rates across borrower segments, evaluated relationships between key risk factors and loan defaults, and identified underwriting thresholds to support data-driven lending decisions.
+- **Data Validation:** Ensured data quality through **null checks, duplicate detection, consistency validation, and data type verification** before conducting the analysis.
 
 ---
 
