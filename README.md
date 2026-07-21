@@ -1,4 +1,4 @@
-# 🏦 Loan Default Risk Analysis at Horizon Financial Group
+# 🏦 Consumer Credit Risk & Portfolio Loss Reduction
 ### Identifying key drivers of loan defaults to strengthen underwriting decisions and reduce portfolio risk
 ---
 
